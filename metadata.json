@@ -1,0 +1,8 @@
+{
+  "name": "LumenCam",
+  "description": "DSLR-style Android portrait camera with CameraX, Camera2 Interop, live aperture bokeh, manual Kelvin & LUT color grading, and full-res JPEG/RAW capture.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
